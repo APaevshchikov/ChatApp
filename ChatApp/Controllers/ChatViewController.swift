@@ -49,7 +49,6 @@ class ChatViewController: UIViewController {
                 print("--------TEST MESSAGE")
             }
         }
-        
     }
     
     
