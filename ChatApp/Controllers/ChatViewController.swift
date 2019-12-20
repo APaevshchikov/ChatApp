@@ -20,9 +20,9 @@ class ChatViewController: UIViewController {
     let db = Firestore.firestore()
     
     var messages: [Message] = [
-        Message(sender: "1@2.com", body: "Hey!"),
-        Message(sender: "a@b.com", body: "Hello!"),
-        Message(sender: "1@2.com", body: "What`s up?")
+//        Message(sender: "1@2.com", body: "Hey!"),
+//        Message(sender: "a@b.com", body: "Hello!"),
+//        Message(sender: "1@2.com", body: "What`s up?")
     ]
     
     
